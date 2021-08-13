@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+.left-0{
+    left: 0;
+}
+.right-0{
+    right: 0;
+}
+.h-60px{
+    height: 60px;
+}
+.mt-20px{
+    margin-top: 20px;
+}
+.mb-20px{
+    margin-bottom: 20px;
+}
+.outline-none{
+    outline: none;
+}
